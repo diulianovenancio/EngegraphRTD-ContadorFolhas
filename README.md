@@ -48,8 +48,22 @@ Bem-vindo ao **EngegraphRTD - Contador de Folhas**, um sistema simples e eficien
 
 ## 📁 Estrutura de Diretórios
 
-├── index.html ├── pages/ │ ├── com-lado.html │ ├── sem-lado.html │ ├── livro-completo-com-lado.html │ └── livro-completo-sem-lado.html ├── js/ │ ├── com-lado.js │ ├── sem-lado.js │ ├── livro-completo-com-lado.js │ └── livro-completo-sem-lado.js └── assets/ ├── css/ │ └── style.css └── img/ └── icon.png
-
+├── index.html
+├── pages/
+│   ├── com-lado.html
+│   ├── sem-lado.html
+│   ├── livro-completo-com-lado.html
+│   └── livro-completo-sem-lado.html
+├── js/
+│   ├── com-lado.js
+│   ├── sem-lado.js
+│   ├── livro-completo-com-lado.js
+│   └── livro-completo-sem-lado.js
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   └── img/
+│       └── icon.png
 
 
 ---
