@@ -56,20 +56,20 @@ Bem-vindo ao **EngegraphRTD - Contador de Folhas**, um sistema simples e eficien
 
 index.html  
 ├── pages/  
-│   ├── com-lado.html  
-│   ├── sem-lado.html  
-│   ├── livro-completo-com-lado.html  
-│   └── livro-completo-sem-lado.html  
+│       ├── com-lado.html  
+│       ├── sem-lado.html  
+│       ├── livro-completo-com-lado.html  
+│       └── livro-completo-sem-lado.html  
 ├── js/  
-│   ├── com-lado.js  
-│   ├── sem-lado.js  
-│   ├── livro-completo-com-lado.js  
-│   └── livro-completo-sem-lado.js  
+│       ├── com-lado.js  
+│       ├── sem-lado.js  
+│       ├── livro-completo-com-lado.js  
+│       └── livro-completo-sem-lado.js  
 ├── assets/  
-│   ├── css/  
-│   │   └── style.css  
-│   └── img/  
-│       └── icon.png  
+│       ├── css/  
+│       │       └── style.css  
+│       └── img/  
+│               └── icon.png  
 
 
 ---
