@@ -36,49 +36,33 @@ Bem-vindo ao **EngegraphRTD - Contador de Folhas**, um sistema simples e eficien
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas 🧪
 
 - **HTML5 + CSS3**
 - **JavaScript**
 - **Bootstrap 5**
 - **FontAwesome**
-- Git e GitHub para versionamento
+- **Git e GitHub para versionamento**
 
 ---
 
 ## 📁 Estrutura de Diretórios
 
-├── index.html
-├── pages/
-│   ├── com-lado.html
-│   ├── sem-lado.html
-│   ├── livro-completo-com-lado.html
-│   └── livro-completo-sem-lado.html
-├── js/
-│   ├── com-lado.js
-│   ├── sem-lado.js
-│   ├── livro-completo-com-lado.js
-│   └── livro-completo-sem-lado.js
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   └── img/
-│       └── icon.png
-
+index.html ├── pages/ │ ├── com-lado.html │ ├── sem-lado.html │ ├── livro-completo-com-lado.html │ └── livro-completo-sem-lado.html ├── js/ │ ├── com-lado.js │ ├── sem-lado.js │ ├── livro-completo-com-lado.js │ └── livro-completo-sem-lado.js ├── assets/ │ ├── css/ │ │ └── style.css │ └── img/ │ └── icon.png
 
 ---
 
 ## 👨‍💻 Desenvolvedor
 
 Este projeto foi desenvolvido com dedicação por **Diuliano** 🧠  
+Feito com 💙 para facilitar a rotina no RTD.
 Caso tenha sugestões, melhorias ou queira colaborar, fique à vontade para abrir um _pull request_ ou _issue_ aqui no GitHub!
 
 ---
 
 ## 📝 Licença
 
-Este projeto está sob a licença **MIT**.  
-Sinta-se livre para usar, modificar e distribuir conforme necessário.
+Este projeto está sob a licença **MIT**. 
 
 ---
 
