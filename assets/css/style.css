@@ -1,0 +1,21 @@
+body {
+    background: #f8f9fa;
+    padding: 30px;
+  }
+  
+  .card {
+    max-width: 600px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.08);
+  }
+  
+  .form-label {
+    font-weight: 600;
+  }
+  
+  .result {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
